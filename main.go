@@ -111,7 +111,7 @@ func CalculateHash(block *Block) string {
 	return hex.EncodeToString(hash[:])
 }
 
-// Initialisation of new blockchain with genesis block
+// Initialization of new blockchain with genesis block
 func NewBlockchain() *Blockchain {
 	genesisBlock := Block{
 		Index:        0,
