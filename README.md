@@ -1,7 +1,7 @@
 # blockchain-go
 Simple blockchain on golang
 
-#HOW IT WORKS
+# HOW IT WORKS
 
 -**Key generation:** Uses Go's built-in cryptographic library to generate RSA keys, which are used to sign transactions.
 
@@ -14,7 +14,7 @@ Simple blockchain on golang
 -**Printing blocks:** Once created, the blocks are printed to the screen with information about the transactions, hash, and other parameters.
 
 
-#DESCRIPTION
+# DESCRIPTION
 
 -**Transactions** - Transactions are created and signed using the sender's private key.
 
