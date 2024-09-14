@@ -5,7 +5,7 @@ Simple blockchain on golang
 
 -**Key generation:** Uses Go's built-in cryptographic library to generate RSA keys, which are used to sign transactions.
 
--**Creating transactions:** The example creates two transactions: the first between Alice and Bob, and the second from Bob to Alice.
+-**Creating transactions:** The example creates two transactions: the first between Natasha and Ashot, and the second from Ashot to Natasha.
 
 -**Mining blocks:** Each block contains a list of transactions, and requires mining (Proof-of-Work) to add it to the blockchain.
 
