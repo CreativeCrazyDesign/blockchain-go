@@ -28,3 +28,7 @@ Simple blockchain on golang
 **Run with the command:**
 
 `go run main.go`
+
+
+# RESULTS
+![alt text](image.png)
